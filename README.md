@@ -24,7 +24,7 @@ between two or more relational states. This repository contains:
   
 ## Data
 
-`friendship_inputs.RData` contains the input objects required for the
+`Glasgow-friendship-data.RData` contains the input objects required for the
 empirical application:
 - three friendship-network matrices;
 - sex and age variables;
