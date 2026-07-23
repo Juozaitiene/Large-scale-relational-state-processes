@@ -15,16 +15,16 @@ between two or more relational states. This repository contains:
 
 ### Scripts
 
-- `R/01_full_history_simulation.R` reproduces the full-history simulation and
+- `01_full_history_simulation.R` reproduces the full-history simulation and
   the results associated with Figure 3.
-- `R/02_panel_simulation.R` reproduces the panel-data simulation and the
+- `02_panel_simulation.R` reproduces the panel-data simulation and the
   results associated with Figure 4.
-- `R/03_empirical_application.R` runs the empirical analysis associated with
+- `03_empirical_application.R` runs the empirical analysis associated with
   Section 5 and Table 1.
   
 ## Data
 
-`data/friendship_inputs.RData` contains the input objects required for the
+`friendship_inputs.RData` contains the input objects required for the
 empirical application:
 - three friendship-network matrices;
 - sex and age variables;
